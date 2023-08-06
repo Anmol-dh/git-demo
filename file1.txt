@@ -1,4 +1,1 @@
 Orange
-line2
-cherry
-line added in branch1
