@@ -1,3 +1,4 @@
 test commit
 line 2
 cherry
+line added in branch2
